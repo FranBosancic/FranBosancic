@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at the Zagreb University of Applied Sciences  
 💻 Passionate about backend development, systems programming, networking, and DevOps  
-📍 Based in Zagreb, Croatia
+📍 Zagreb, Croatia
 
 ---
 
