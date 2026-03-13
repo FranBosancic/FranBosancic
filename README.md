@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fran Bosančić
 
-🎓 Computer Science student at Zagreb University of Applied Sciences
+🎓 Computer Science student at Zagreb University of Applied Sciences (Tehničko veleučilište u Zagrebu)
 
 💻 Passionate about backend development & systems programming
 
